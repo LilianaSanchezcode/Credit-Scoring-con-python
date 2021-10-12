@@ -15,7 +15,11 @@ Se espera que un modelo predictivo elaborado a partir de estos datos sirva de gu
 
 Fuente de la data:
 El conjunto de datos contiene 1000 filas con 10 variables .En este conjunto de datos, cada entrada representa a un cliente que recibe un crédito de un banco. Cada cliente se clasifica con riesgo crediticio bueno o malo según el conjunto de variables. El enlace al conjunto de datos original se puede encontrar a continuación.
+
+
 https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
+
+
 https://www.kaggle.com/uciml/german-credit
 
 
